@@ -1,2 +1,2 @@
 # Face-Detection
-This app will detect faces in images.
+This app was created in React.
